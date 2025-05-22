@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.csv
 # C extensions
 *.so
-
+eletric_cars_market_size.code-workspace
 # Distribution / packaging
 .Python
 build/
